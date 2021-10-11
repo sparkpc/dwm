@@ -1,3 +1,3 @@
 # DWM - SparkPC Build
 ## Using Polybar 😎
-![Screen](screen.jpeg)
+![Screen](screen.png)
